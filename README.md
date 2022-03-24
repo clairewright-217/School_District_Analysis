@@ -37,8 +37,8 @@ Then this analysis was redone with the data from ninth graders at Thomas High Sc
 
 ## Resources
 Data Sources: 
-- [schools_complete.csv](Resources/schools_complete_csv)
-- [students_complete.csv](Resources/students_complete_csv)
+- [schools_complete.csv](Resources/schools_complete.csv)
+- [students_complete.csv](Resources/students_complete.csv)
 
 Software: Python 3.9.7, Pandas 1.3.4, Conda 4.11.0, Jupyter Notebooks, Visual Studio Code 1.64.2 (Universal)
 
