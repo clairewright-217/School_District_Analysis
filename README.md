@@ -44,8 +44,8 @@ Software: Python 3.9.7, Pandas 1.3.4, Conda 4.11.0, Jupyter Notebooks, Visual St
 
 ## Results
 
+1. How is the district summary affected?
 
-**1. How is the district summary affected?**
 The district summary changed very little after the ninth graders from Thomas High School were removed from the analysis. All measures besides the Average Reading Score were slightly lower (<1%) after the ninth graders were removed, while the Average Reading Score in the district didn't change at all. 
 
 _Original District Summary (including Thomas HS 9th graders):_
@@ -56,7 +56,7 @@ _Revised District Summary (excluding Thomas HS 9th graders):_
 
 ![district_summary_revised](Resources/district_summary_revised.png)
 
-**2. How is the school summary affected?**
+2. How is the school summary affected?
 
 The school summary also was minimally affected by taking out the performance data for ninth graders from Thomas High School. The changes to the math and reading scores were only noticeable at the tenth decimal in the summary scores.
 
@@ -68,20 +68,20 @@ _Revised School Summary (excluding Thomas HS 9th graders):_
 
 ![school_summary_revised](Resources/school_summary_revised.png)
 
-**3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?**
+3. How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
 Removing the scores of Thomas HS ninth graders had no effect on the high school's performance ranking compared to other schools. Thomas High School remained the second highest performing school in the district. 
 
 ![top_five_performing_schools_revised](https://user-images.githubusercontent.com/14280739/160006189-16101deb-9c7f-413e-9088-49fe54a57841.png)
 
-**4. How does replacing the ninth-grade scores affect the following?**
+4. Math and reading scores by grade
 
-**Math and reading scores by grade**
 The ninth grade scores for Thomas High School appeared as `NaN` after they were removed from the dataset. Basically, the ninth graders at Thomas HS no longer had reported performance scores for math and reading. No other scores for any other grade or school were changed. The original average math score was 83.6 and the original average reading score was 83.7 for Thomas HS 9th graders. This image shows the updated average math score for 9th graders at Thomas HS as an example of the change: 
 
 ![new_math_scores_by_grade](https://user-images.githubusercontent.com/14280739/160007286-222c5386-fda4-461e-9748-96eee7bbb889.png)
 
-**Scores by school spending, Scores by school size, and Scores by school type**
+5. Scores by school spending, Scores by school size, and Scores by school type
+
 The reading and math performance broken down the different buckets of school spending, school size, and school type did not change at all after removing Thomas HS 9th graders. That is, the before and after summaries based on these different analysis criteria did not change at all.  
 
 _Before and After of Scores by School Spending (no change)_
