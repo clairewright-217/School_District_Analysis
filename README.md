@@ -50,7 +50,10 @@ The district summary changed very little after the ninth graders from Thomas Hig
 
 _Original School District Summary (including Thomas HS 9th graders):_
 
-![district_summary_original](/Resources/district_summary_original.png)
+![district_summary_original](Resources/district_summary_original.png)
+
+![district_summary_original](https://user-images.githubusercontent.com/14280739/160003185-2768d34e-a946-4b1c-8be2-5943c79f0d35.png)
+
 
 
 _Revised School District Summary (excluding Thomas HS 9th graders):_
