@@ -78,7 +78,7 @@ Removing the scores of Thomas HS ninth graders had no effect on the high school'
 
 The ninth grade scores for Thomas High School appeared as `NaN` after they were removed from the dataset. Basically, the ninth graders at Thomas HS no longer had reported performance scores for math and reading. No other scores for any other grade or school were changed. The original average math score was 83.6 and the original average reading score was 83.7 for Thomas HS 9th graders. This image shows the updated average math score for 9th graders at Thomas HS as an example of the change: 
 
-![new_math_scores_by_grade](https://user-images.githubusercontent.com/14280739/160007286-222c5386-fda4-461e-9748-96eee7bbb889.png)
+![new_math_scores_by_grade](Resources/new_math_scores_by_grade.png)
 
 **5. Scores by school spending, Scores by school size, and Scores by school type**
 
