@@ -72,7 +72,7 @@ _Revised School Summary (excluding Thomas HS 9th graders):_
 
 Removing the scores of Thomas HS ninth graders had no effect on the high school's performance ranking compared to other schools. Thomas High School remained the second highest performing school in the district. 
 
-![top_five_performing_schools_revised](Resources/top_five_performing_schools_revised/png)
+![top_five_performing_schools_revised](Resources/top_five_performing_schools_revised.png)
 
 **4. Math and reading scores by grade**
 
