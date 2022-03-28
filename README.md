@@ -86,9 +86,11 @@ The ninth grade scores for Thomas High School appeared as `NaN` after they were 
 The reading and math performance broken down the different buckets of school spending, school size, and school type did not change at all after removing Thomas HS 9th graders. That is, the before and after summaries based on these different analysis criteria did not change at all.  
 
 _Before and After of Scores by School Spending (no change)_
+
 ![scores_by_school_spending](Resources/scores_by_school_spending.png)
 
 _Before and After of Scores by School Size (no change)_
+
 The performance scores by school size was the same before and after taking out the 9th grade data.
 ![scores_by_school_size](Resources/size_summary_png.png)
 
