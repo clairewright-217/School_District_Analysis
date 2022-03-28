@@ -89,8 +89,6 @@ _Before and After of Scores by School Spending (no change)_
 
 ![scores_by_school_spending](Resources/scores_by_school_spending.png)
 
-The performance scores by school size was the same before and after taking out the 9th grade data:
-
 _Before and After of Scores by School Size (no change)_
 ![scores_by_school_size](Resources/size_summary_png.png)
 
